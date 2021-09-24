@@ -1,0 +1,2 @@
+# zipposwizard
+Kodi addon repository 
