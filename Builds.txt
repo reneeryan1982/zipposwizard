@@ -33,3 +33,30 @@ preview="http://"
 adult="no"
 info="http://"
 description=" Kodi 19 build "
+
+id="ZMC 19.4"
+version="6.0"
+zip="zmcmatrix6.zip"
+
+name="ZMC MATRIX 6.0"
+version="6.0"
+url="https://archive.org/download/zmcmatrix6/zmcmatrix6.zip"
+minor="http://"
+
+gui="url.to.guisettings"
+
+kodi="19"
+
+theme="url.to.themes"
+
+icon="https://archive.org/download/zmc-19.4-rev-1-32bit/ic_launcher.png"
+
+fanart="https://archive.org/download/zmcmatrix6/Screenshot_20220926-200327_ZMC%20%20194%20%28rev1%2932bit.jpg"
+
+preview="http://"
+
+adult="no"
+
+info="http://"
+
+description="New Kodi Matrix Build updated 9/26/2022"
